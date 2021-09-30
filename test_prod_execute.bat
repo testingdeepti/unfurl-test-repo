@@ -1,0 +1,2 @@
+echo kaskaslasalsalsasasa
+exit
